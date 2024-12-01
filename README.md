@@ -76,9 +76,6 @@ pip install pandas scikit-learn xgboost matplotlib seaborn
 ## Contributing
 Contributions are welcome! Please create an issue to discuss any enhancements or fixes.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ---
 
 Feel free to update this document to include specific results or additional context about the project. Let me know if you'd like to further customize any section!
